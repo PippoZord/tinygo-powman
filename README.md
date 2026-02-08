@@ -8,7 +8,7 @@ The library directly accesses the RP2350 power management and timer registers vi
 
 Powman is a low-level power management library for TinyGo, designed to control low-power modes, timers, and wake-up alarms on ARM-based microcontrollers.
 
-> The code tested on Raspberry Pi Pico 2
+> [Here](https://github.com/PippoZord/micropython-powman) for the same micropython implementation
 
 ## Requirements
 
